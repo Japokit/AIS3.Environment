@@ -88,7 +88,7 @@
 -----
 
 ### In Ubuntu 18.04 Desktop
-```
+```sh
 apt-get install \
 python2.7=2.7.15-4ubuntu4~18.04 \
 openssl=1.1.1-1ubuntu2.1~18.04.4 \
