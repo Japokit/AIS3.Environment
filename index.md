@@ -22,7 +22,7 @@
 	16. flash tool
 
 ### VM2
-- Download: [https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS] (https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS)
+- Download: [https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS](https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS)
 - OS: Windows 7 SP1
 - without any update
 - package
