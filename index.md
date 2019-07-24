@@ -2,6 +2,8 @@
 
 ## Virtual Machine prepared by AIS3
 ### VM1
+- Download: [https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc/view?usp=sharing](https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc/view?usp=sharing)
+- Default user/password: ais3/ais32019
 - OS: Ubuntu 18.04 Desktop
 - package
 	1. JDK8
@@ -24,7 +26,7 @@
 ### VM2
 - Download: [https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS](https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS)
 - OS: Windows 7 SP1
-- without any update
+- without update
 - package
 	1. IDA freeware 
 	2. VMware tools
