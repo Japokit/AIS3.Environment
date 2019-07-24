@@ -1,8 +1,8 @@
 AIS3 environment requirements
 ----
 
-### Virtual Machine prepared by AIS3
-#### VM1
+# Virtual Machine prepared by AIS3
+## VM1
 - OS: Ubuntu 18.04 Desktop
 - package
 	1. JDK8
@@ -22,7 +22,7 @@ AIS3 environment requirements
 	15. gtkterm
 	16. flash tool
 
-#### VM2
+## VM2
 - OS: Windows 7
 - without any update
 - install image
@@ -36,8 +36,8 @@ AIS3 environment requirements
 	5. usb-to-uart-bridge-vcp-drivers
 
 ----------
-### Package list
-#### package in Linux
+# Package list
+## package in Linux
 - JDK8
 - maven
 	- version: 3.6.0
@@ -70,7 +70,7 @@ AIS3 environment requirements
 - flash tool
 	- https://labs.mediatek.com/en/download/6nOsg1ml 
 
-#### package in Windows
+## package in Windows
 
 - VMware workstation
 	- version: 15 Pro
@@ -90,7 +90,7 @@ AIS3 environment requirements
 
 -----
 
-#### In Ubuntu 18.04 Desktop
+## In Ubuntu 18.04 Desktop
 ```
 apt-get install \
 python2.7=2.7.15-4ubuntu4~18.04 \
