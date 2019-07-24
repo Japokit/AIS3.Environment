@@ -22,11 +22,9 @@
 	16. flash tool
 
 ### VM2
-- OS: Windows 7
+- Download (https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS)
+- OS: Windows 7 SP1
 - without any update
-- install image
-	- en\_windows\_7\_professional\_x64\_dvd\_x15-65805
-	- SHA1: 50127304441A793EE51B3F501289F6599A559E9F
 - package
 	1. IDA freeware 
 	2. VMware tools
@@ -59,7 +57,7 @@
 	- version: ART v0.10.0
 - libsodium
 	- version: 1.0.18
-	- https://github.com/jedisct1/libsodium
+	- (https://github.com/jedisct1/libsodium)
 - R
 	- version: 3.4.4
 - R Studio
@@ -67,25 +65,25 @@
 - gcc-arm-linux-gnueabi
 - gtkterm
 - flash tool
-	- https://labs.mediatek.com/en/download/6nOsg1ml 
+	- (https://labs.mediatek.com/en/download/6nOsg1ml)
 
 ### package in Windows
 
 - VMware workstation
 	- version: 15 Pro
 	- Need to install in your NB
-	- https://www.vmware.com/go/getworkstation-win
+	- (https://www.vmware.com/go/getworkstation-win)
 - IDA freeware
 	- version: 7
 	- Need to install in your NB
-	- for windows: https://out7.hex-rays.com/files/idafree70_windows.exe
-	- for mac: https://out7.hex-rays.com/files/idafree70_mac.tgz
-	- for linux: https://out7.hex-rays.com/files/idafree70_linux.run
+	- for windows: (https://out7.hex-rays.com/files/idafree70_windows.exe)
+	- for mac: (https://out7.hex-rays.com/files/idafree70_mac.tgz)
+	- for linux: (https://out7.hex-rays.com/files/idafree70_linux.run)
 - Putty
 - flash tool
-	- https://labs.mediatek.com/en/download/i7wl3Hcf
+	- (https://labs.mediatek.com/en/download/i7wl3Hcf)
 - usb-to-uart-bridge-vcp-drivers
-	- https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers
+	- (https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
 -----
 
