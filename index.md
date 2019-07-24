@@ -1,5 +1,4 @@
 # AIS3 environment requirements
-----
 
 ## Virtual Machine prepared by AIS3
 ### VM1
