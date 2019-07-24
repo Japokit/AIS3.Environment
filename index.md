@@ -2,7 +2,7 @@
 
 ## Virtual Machine prepared by AIS3
 ### VM1
-- Download: [https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc/view?usp=sharing](https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc/view?usp=sharing)
+- Download: [https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc](https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc)
 - Default user/password: ais3/ais32019
 - OS: Ubuntu 18.04 Desktop
 - package
