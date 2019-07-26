@@ -6,6 +6,8 @@
 - [Setting Guide](https://drive.google.com/file/d/1R49PjB4HCIWQ9OcTICbVyvTQehjvcEMQ)
 - [Firmware.zip](https://drive.google.com/file/d/1vPFrCycWKIfmNd-QaMKXus-7G28IEi6d)
 
+----------
+
 ## Virtual Machine prepared by AIS3
 ### VM1
 - Download: [https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc](https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc)
@@ -93,9 +95,7 @@
 - usb-to-uart-bridge-vcp-drivers
 	- [https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
------
-
-### In Ubuntu 18.04 Desktop
+### Install script in Ubuntu 18.04 Desktop
 ```bash
 apt-get install \
 python2.7=2.7.15-4ubuntu4~18.04 \
