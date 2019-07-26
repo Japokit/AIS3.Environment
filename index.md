@@ -1,5 +1,11 @@
 # AIS3 environment requirements
 
+## 20190726 CST22:10 Update
+### Files for Day2 morning (Firmware security analysis)
+- [Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)
+- [Setting Guide](https://drive.google.com/file/d/1R49PjB4HCIWQ9OcTICbVyvTQehjvcEMQ)
+- [Firmware.zip](https://drive.google.com/file/d/1vPFrCycWKIfmNd-QaMKXus-7G28IEi6d)
+
 ## Virtual Machine prepared by AIS3
 ### VM1
 - Download: [https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc](https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc)
