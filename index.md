@@ -1,5 +1,10 @@
 # AIS3 environment requirements
 
+## 20190728 CST19:30 Update
+### Files from speakers
+- [SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip](http://file.inner.ais3.org/SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip)
+- [forensics_sample.zip](http://file.inner.ais3.org/forensics_sample.zip)
+
 ## 20190726 CST22:10 Update
 ### Files for Day2 morning (Firmware security analysis)
 - [Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)
@@ -10,7 +15,7 @@
 
 ## Virtual Machine prepared by AIS3
 ### VM1
-- Download: [https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc](https://drive.google.com/file/d/1mO2QWIB68dYQWimBoVz2EH2Ql8ZuRBAc)
+- Download: [Link](http://file.inner.ais3.org/Ubuntu_for_AIS3.ova)
 - Default user/password: ais3/ais32019
 - OS: Ubuntu 18.04 Desktop
 - package
@@ -32,7 +37,7 @@
 	16. flash tool
 
 ### VM2
-- Download: [https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS](https://drive.google.com/open?id=1iSWkIUz_cdFDM30k37bgo3OBVNz8t-oS)
+- Download: [Link](http://file.inner.ais3.org/Windows_for_AIS3.ova)
 - OS: Windows 7 SP1
 - without update
 - package
