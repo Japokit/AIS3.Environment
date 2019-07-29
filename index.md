@@ -1,7 +1,7 @@
 # AIS3 environment requirements
 
 ## 20190729 CST12:45 Update
-- Index of file server: [file.in.ais3.org](http://file.in.ais3.org)
+- Index of file server: [file.inner.ais3.org](http://file.inner.ais3.org)
 
 ## 20190728 CST19:30 Update
 ### Files from speakers
