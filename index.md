@@ -2,6 +2,7 @@
 
 ## 20190729 CST12:45 Update
 - Index of file server: [file.inner.ais3.org](http://file.inner.ais3.org)
+- Today afternoon slide: [190729_afternoon_slide.pdf](http://file.inner.ais3.org/190729_afternoon_slide.pdf)
 
 ## 20190728 CST19:30 Update
 ### Files from speakers
