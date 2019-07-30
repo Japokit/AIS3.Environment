@@ -38,6 +38,8 @@
 - [SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip](http://file.inner.ais3.org/SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip)
 - [forensics_sample.zip](http://file.inner.ais3.org/forensics_sample.zip)
 
+----------
+
 ## ~~20190726 CST22:10 Update~~
 ### ~~Files for Day2 morning (Firmware security analysis)~~
 - ~~[Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)~~
