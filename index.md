@@ -7,6 +7,8 @@
     - [SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip](http://file.inner.ais3.org/SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip)
     - [forensics_sample.zip](http://file.inner.ais3.org/forensics_sample.zip)
 
+----------
+
 ## 20190730 CST11:00 Update
 ### Environment for Day4 afternoon (Automatic Binary Analysis)
 - [Docker angr/angr](https://hub.docker.com/r/angr/angr/)
