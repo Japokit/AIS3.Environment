@@ -3,6 +3,9 @@
 ## 20190731 CST6:00 Update
 ### Files for Day3 morning (利用數位鑑識分析手法找出入侵根因)
 - [IR-Tools.zip](http://file.inner.ais3.org/IR-Tools.zip)
+- ( 20190728 CST19:30 Update: Files for Day3 morning from speakers )
+    - [SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip](http://file.inner.ais3.org/SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip)
+    - [forensics_sample.zip](http://file.inner.ais3.org/forensics_sample.zip)
 
 ## 20190730 CST11:00 Update
 ### Environment for Day4 afternoon (Automatic Binary Analysis)
@@ -38,7 +41,7 @@
 ----------
 
 ## 20190728 CST19:30 Update
-### Files from speakers
+### Files for Day3 morning from speakers
 - [SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip](http://file.inner.ais3.org/SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip)
 - [forensics_sample.zip](http://file.inner.ais3.org/forensics_sample.zip)
 
