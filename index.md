@@ -9,11 +9,15 @@
 - Ghidra Data (git repository): [https://github.com/0x6d696368/ghidra-data](https://github.com/0x6d696368/ghidra-data)
 - Ghidra scripts (git repository): [https://github.com/0x6d696368/ghidra_scripts](https://github.com/0x6d696368/ghidra_scripts)
 
+----------
+
 ### Slides and files for Day3 afternoon (Cryptograph and Cryptanalysis)
 - [20190729_For_AIS3_JP_01_Hardware_Security.pdf](http://file.inner.ais3.org/20190729_For_AIS3_JP_01_Hardware_Security.pdf)
 - [20190729_For_AIS3_JP_02_Cryptography_and_AES.pdf](http://file.inner.ais3.org/20190729_For_AIS3_JP_02_Cryptography_and_AES.pdf)
 - [20190729_For_AIS3_JP_03_SCA.pdf](http://file.inner.ais3.org/20190729_For_AIS3_JP_03_SCA.pdf)
 - [Rijndael_Anim.zip](http://file.inner.ais3.org/Rijndael_Anim.zip)
+
+----------
 
 ## 20190730 CST08:45 Update
 ### Files for Day2 morning (Firmware security analysis)
@@ -23,9 +27,13 @@
 - [firmware00.zip **Updated**](http://file.inner.ais3.org/firmware00.zip)
 - [MyLittle-OS.zip](http://file.inner.ais3.org/MyLittle-OS.zip)
 
+----------
+
 ## 20190729 CST12:45 Update
 - Index of file server: [file.inner.ais3.org](http://file.inner.ais3.org)
 - Today afternoon slide: [190729_afternoon_slide.pdf](http://file.inner.ais3.org/190729_afternoon_slide.pdf)
+
+----------
 
 ## 20190728 CST19:30 Update
 ### Files from speakers
