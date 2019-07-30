@@ -1,5 +1,13 @@
 # AIS3 environment requirements
 
+## 20190730 CST08:45 Update
+### Files for Day2 morning (Firmware security analysis)
+- [Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)
+- [Setting Guide](https://drive.google.com/file/d/1R49PjB4HCIWQ9OcTICbVyvTQehjvcEMQ)
+- [Appendix.pdf](http://file.inner.ais3.org/Appendix.pdf)
+- [firmware00.zip **Updated**](http://file.inner.ais3.org/firmware00.zip)
+- [MyLittle-OS.zip](http://file.inner.ais3.org/MyLittle-OS.zip)
+
 ## 20190729 CST12:45 Update
 - Index of file server: [file.inner.ais3.org](http://file.inner.ais3.org)
 - Today afternoon slide: [190729_afternoon_slide.pdf](http://file.inner.ais3.org/190729_afternoon_slide.pdf)
@@ -9,11 +17,11 @@
 - [SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip](http://file.inner.ais3.org/SIFT-Workstation-3-Virtual-Machine-Distro-Version.zip)
 - [forensics_sample.zip](http://file.inner.ais3.org/forensics_sample.zip)
 
-## 20190726 CST22:10 Update
-### Files for Day2 morning (Firmware security analysis)
-- [Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)
-- [Setting Guide](https://drive.google.com/file/d/1R49PjB4HCIWQ9OcTICbVyvTQehjvcEMQ)
-- [Firmware.zip](https://drive.google.com/file/d/1vPFrCycWKIfmNd-QaMKXus-7G28IEi6d)
+~~## 20190726 CST22:10 Update~~
+~~### Files for Day2 morning (Firmware security analysis)~~
+~~- [Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)~~
+~~- [Setting Guide](https://drive.google.com/file/d/1R49PjB4HCIWQ9OcTICbVyvTQehjvcEMQ)~~
+~~- [Firmware.zip](https://drive.google.com/file/d/1vPFrCycWKIfmNd-QaMKXus-7G28IEi6d)~~
 
 ----------
 
