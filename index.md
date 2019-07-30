@@ -1,5 +1,20 @@
 # AIS3 environment requirements
 
+## 20190730 CST11:00 Update
+### Environment for Day4 afternoon (Automatic Binary Analysis)
+- [Docker angr/angr](https://hub.docker.com/r/angr/angr/)
+- [Docker bruce30262/re3](https://hub.docker.com/r/bruce30262/re3)
+- Please install Ghidra: [https://ghidra-sre.org](https://ghidra-sre.org)
+    - Installation guide: [https://www.ylmzcmlttn.com/2019/03/26/ghidra-installation-on-ubuntu-18-04-16-04-14-04/](https://www.ylmzcmlttn.com/2019/03/26/ghidra-installation-on-ubuntu-18-04-16-04-14-04/)
+- Ghidra Data (git repository): [https://github.com/0x6d696368/ghidra-data](https://github.com/0x6d696368/ghidra-data)
+- Ghidra scripts (git repository): [https://github.com/0x6d696368/ghidra_scripts](https://github.com/0x6d696368/ghidra_scripts)
+
+### Slides and files for Day3 afternoon (Cryptograph and Cryptanalysis)
+- [20190729_For_AIS3_JP_01_Hardware_Security.pdf](http://file.inner.ais3.org/20190729_For_AIS3_JP_01_Hardware_Security.pdf)
+- [20190729_For_AIS3_JP_02_Cryptography_&_AES.pdf](http://file.inner.ais3.org/20190729_For_AIS3_JP_02_Cryptography_&_AES.pdf)
+- [20190729_For_AIS3_JP_03_SCA.pdf](http://file.inner.ais3.org/20190729_For_AIS3_JP_03_SCA.pdf)
+- [Rijndael_Anim.zip](http://file.inner.ais3.org/Rijndael_Anim.zip)
+
 ## 20190730 CST08:45 Update
 ### Files for Day2 morning (Firmware security analysis)
 - [Slides](https://drive.google.com/file/d/1iMCkudCihlUV6K4jMFpLo-sxKaJ9HfcA)
